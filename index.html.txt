@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel='stylesheet' href='style.css'/>
+	
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+</head>
+<body>
+
+<div >
+	<div class="head">
+		<div class="lant"></div>
+		<div class="rant"></div>
+		<div class="leye"></div>
+		<div class="reye"></div>
+	</div>
+	<div class="body">
+		<div class="larm"></div>
+		<div class="rarm"></div>
+		<div class="lleg"></div>
+		<div class="rleg"></div>
+	</div>
+
+</div>
+</body>
+</html>
